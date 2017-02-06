@@ -9,6 +9,10 @@ namespace Admission
     {
         static void Main(string[] args)
         {
+            int gpa, score;
+            Console.Write("What's your gpa: ");
+            String scan = Console.ReadLine();
+
         }
     }
 }
